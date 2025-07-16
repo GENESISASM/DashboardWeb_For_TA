@@ -19,3 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [Next.js](https://nextjs.org/learn)
 - [PostgreSQL](https://www.postgresql.org/docs/)
 - [Docker](https://docs.docker.com/)
+- [K6 Tester](https://grafana.com/docs/k6/latest/)
