@@ -1,3 +1,5 @@
+// K6 Performance Testing
+
 import http from 'k6/http';
 import { check, sleep } from 'k6';
 
