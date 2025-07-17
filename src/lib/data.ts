@@ -1,43 +1,41 @@
-// TEMPORARY DATA
-
 export let role = "student";
 
 export const teachersData = [
   {
     id: 1,
     teacherId: "1234567890",
-    name: "John Doe",
-    email: "john@doe.com",
+    name: "Pekerja 1",
+    email: "Pekerja1@gmail.com",
     photo:
       "https://images.pexels.com/photos/2888150/pexels-photo-2888150.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
     subjects: ["Math", "Geometry"],
     classes: ["1B", "2A", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Sragen",
   },
   {
     id: 2,
     teacherId: "1234567890",
-    name: "Jane Doe",
-    email: "jane@doe.com",
+    name: "Pekerja 2",
+    email: "Pekerja2@gmail.com",
     photo:
       "https://images.pexels.com/photos/936126/pexels-photo-936126.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
     subjects: ["Physics", "Chemistry"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Solo",
   },
   {
     id: 3,
     teacherId: "1234567890",
     name: "Mike Geller",
-    email: "mike@geller.com",
+    email: "mike@gmail.com",
     photo:
       "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Surabaya",
   },
   {
     id: 4,
@@ -49,7 +47,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["History"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Semarang",
   },
   {
     id: 5,
@@ -61,7 +59,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Music", "History"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Yogyakarta",
   },
   {
     id: 6,
@@ -73,7 +71,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Physics"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Papua",
   },
   {
     id: 7,
@@ -85,7 +83,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["English", "Spanish"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Maluku",
   },
   {
     id: 8,
@@ -97,7 +95,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Math", "Geometry"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Padang",
   },
   {
     id: 9,
@@ -109,7 +107,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Literature", "English"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Kalimantan",
   },
   {
     id: 10,
@@ -121,7 +119,7 @@ export const teachersData = [
     phone: "1234567890",
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Kalimantan",
   },
 ];
 
@@ -136,7 +134,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "1B",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Sulawesi",
   },
   {
     id: 2,
@@ -148,7 +146,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Sulawesi",
   },
   {
     id: 3,
@@ -160,7 +158,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, NTB",
   },
   {
     id: 4,
@@ -172,7 +170,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, NTT",
   },
   {
     id: 5,
@@ -184,7 +182,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Kupang",
   },
   {
     id: 6,
@@ -196,7 +194,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Kediri",
   },
   {
     id: 7,
@@ -208,7 +206,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Banyuwangi",
   },
   {
     id: 8,
@@ -220,7 +218,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Madiun",
   },
   {
     id: 9,
@@ -232,7 +230,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Aceh",
   },
   {
     id: 10,
@@ -244,7 +242,7 @@ export const studentsData = [
     phone: "1234567890",
     grade: 5,
     class: "5A",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Aceh",
   },
 ];
 
@@ -255,7 +253,7 @@ export const parentsData = [
     students: ["Sarah Brewer"],
     email: "john@doe.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Aceh",
   },
   {
     id: 2,
@@ -263,7 +261,7 @@ export const parentsData = [
     students: ["Cecilia Bradley"],
     email: "jane@doe.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Aceh",
   },
   {
     id: 3,
@@ -271,7 +269,7 @@ export const parentsData = [
     students: ["Fanny Caldwell"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Aceh",
   },
   {
     id: 4,
@@ -279,7 +277,7 @@ export const parentsData = [
     students: ["Mollie Fitzgerald", "Ian Bryant"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
   {
     id: 5,
@@ -287,7 +285,7 @@ export const parentsData = [
     students: ["Mable Harvey"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
   {
     id: 6,
@@ -295,7 +293,7 @@ export const parentsData = [
     students: ["Joel Lambert"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
   {
     id: 7,
@@ -303,7 +301,7 @@ export const parentsData = [
     students: ["Carrie Tucker", "Lilly Underwood"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
   {
     id: 8,
@@ -311,7 +309,7 @@ export const parentsData = [
     students: ["Alexander Blair"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
   {
     id: 9,
@@ -319,7 +317,7 @@ export const parentsData = [
     students: ["Susan Webster", "Maude Stone"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
   {
     id: 10,
@@ -327,7 +325,7 @@ export const parentsData = [
     students: ["Stella Scott"],
     email: "mike@geller.com",
     phone: "1234567890",
-    address: "123 Main St, Anytown, USA",
+    address: "123 Main St, Anytown, Riau",
   },
 ];
 

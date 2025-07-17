@@ -39,8 +39,6 @@ const ClassForm = ({
     resolver: zodResolver(classSchema),
   });
 
-  // AFTER REACT 19 IT'LL BE USEACTIONSTATE
-
   const [state, formAction] = useFormState(
     type === "create" ? createClass : updateClass,
     {
