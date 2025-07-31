@@ -1,6 +1,6 @@
 # Getting Started
 ## Sistem Informasi Monitoring Peserta
-## Sistem ini dirancang untuk memenuhi tugas akhir untuk kelulusan prodi TI
+## Sistem ini dirancang untuk memenuhi tugas akhir untuk kelulusan
 
 ## 🔍 Fitur Utama
 
