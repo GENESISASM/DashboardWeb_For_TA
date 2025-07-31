@@ -1,6 +1,6 @@
-## Getting Started
-# Sistem Informasi Monitoring Peserta
-# Sistem ini dirancang untuk memenuhi tugas akhir untuk kelulusan prodi TI
+# Getting Started
+## Sistem Informasi Monitoring Peserta
+## Sistem ini dirancang untuk memenuhi tugas akhir untuk kelulusan prodi TI
 
 ## 🔍 Fitur Utama
 
@@ -23,7 +23,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Other Documentation
+## Other Documentation for instalation
 
 - [Next.js](https://nextjs.org/learn)
 - [PostgreSQL](https://www.postgresql.org/docs/)
